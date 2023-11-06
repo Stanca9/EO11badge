@@ -55,14 +55,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have questions or need further assistance, feel free to contact us at [your.email@example.com].
 
-## Acknowledgments
+## Author
 
-We'd like to acknowledge and thank all the contributors and supporters who have helped make this project possible.
+The badge is designed and programmed by me, Stanca Robert-Lucian. Reach me at:
+
+`robert@stanca.eu` or `robertlucian.stanca@gmail.com`
 
 ## See It in Action
 
 [Link to Demo Video or Image Gallery]
-
----
-
-**Note**: Customize this README file to fit the specifics of your electronic event badge project. Be sure to provide detailed information on how to assemble, program, and use the badge, as well as any licensing and contribution information.
