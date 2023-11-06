@@ -25,7 +25,9 @@ The event badge is essentialy a custom Arduino Uno board. Follow these steps to 
 1. **Download Arduino IDE**: Download the Arduino development enviroment [here](https://www.arduino.cc/en/software)
 
 2. **Set up the IDE**: The board uses a slightly different microcontroller, thusly you need to install it.
-  - In Arduino IDE select "File" > "Preferences" > "Additional boards manager URLs" > paste this `https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json`
+  - Open Arduino IDE
+  - Install all drivers that pop up
+  - Select "File" > "Preferences" > "Additional boards manager URLs" > paste this `https://mcudude.github.io/MiniCore/package_MCUdude_MiniCore_index.json`
   - Hit ok and wait for the boards to download
   - Select "Tools" > "Board" > "Boards Manager..." > search and install "MiniCore"
 
@@ -35,7 +37,9 @@ The event badge is essentialy a custom Arduino Uno board. Follow these steps to 
   - Select "Tools" > "Port" > take note of what ports appear
   - Connect your badge to the computer with a USB Type-C cable
   - Select "Tools" > "Port" > select the port that has appeared
-  - Hit the "->" upload button
+  - Select "Tools" > "Variant" > "328PB"
+  - Select "Sketch" > "Upload"
+  - After the upload is done, the led on the back should be blinking
 
 5. **Header Assembly**(Optional): If your projects require them, you can solder two 20 pin female pin headers to the badge (2.54mm pitch).
 
