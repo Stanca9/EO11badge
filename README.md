@@ -1,26 +1,19 @@
 # EESTEC Olympics 11 Badge
 
-# Electronic Event Badge
-
-![Badge Image](badge_image.jpg)
-
 ## Overview
 
-Welcome to the EESTEC Olympics 11 Badge github page! This repository contains all the resources and documentation for our electronic badge used in the event. These badges are designed to provide attendees with a unique, fun, interactive experience and are in no way tied into the main or side challanges of the contest.
+Welcome to the EESTEC Olympics 11 Badge github page! This repository contains all the code and documentation for our electronic badge used in the event. These badges are designed to provide attendees with a unique experience and are in no way tied into the main or side challenges of the contest. They are designed to act as Arduino-like development boards that can be used as such after the event. Just solder on some header pins on the back and get started! (And if you ask nicely we might even be able to do that for you)
 
 ## Features
 
-- LED-s.
-- Interactive buttons.
-- Battery-powered for portability.
-- Serial interface over USB Type-C.
+- LED-s
+- Programmable buttons
+- Battery-powered
 
 ## Getting Started
 
 [!IMPORTANT]
-The badge code will be published after Main Challange.
-
-The event badge is essentialy a custom Arduino Uno board. Follow these steps to get started reprogramming your electronic event badge:
+Follow these steps to get started reprogramming your electronic event badge:
 
 1. **Download Arduino IDE**: Download the Arduino development enviroment [here](https://www.arduino.cc/en/software)
 
@@ -43,24 +36,6 @@ The event badge is essentialy a custom Arduino Uno board. Follow these steps to 
 
 5. **Header Assembly**(Optional): If your projects require them, you can solder two 20 pin female pin headers to the badge (2.54mm pitch).
 
-## Documentation
+## Contact information
 
-- Detailed documentation can be found in the [Documentation](/docs) directory.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-If you have questions or need further assistance, feel free to contact us at [your.email@example.com].
-
-## Author
-
-The badge is designed and programmed by me, Stanca Robert-Lucian. Reach me at:
-
-`robert@stanca.eu` or `robertlucian.stanca@gmail.com`
-
-## See It in Action
-
-[Link to Demo Video or Image Gallery]
+The badge is designed and programmed by me, Stanca Robert-Lucian. Reach me at: `robert@stanca.eu` or `robertlucian.stanca@gmail.com`
