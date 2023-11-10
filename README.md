@@ -12,10 +12,9 @@ Welcome to the EESTEC Olympics 11 Badge github page! This repository contains al
 
 ## Getting Started
 
-[!IMPORTANT]
-Follow these steps to get started reprogramming your electronic event badge:
+**Follow these steps to get started reprogramming your electronic event badge:**
 
-1. **Download Arduino IDE**: Download the Arduino development enviroment [here](https://www.arduino.cc/en/software)
+1. **Download Arduino IDE**: Download the Arduino development enviroment [here](https://www.arduino.cc/en/software), then install it.
 
 2. **Set up the IDE**: The board uses a slightly different microcontroller, thusly you need to install it.
   - Open Arduino IDE
